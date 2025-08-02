@@ -14,7 +14,6 @@ namespace api.Dtos.Stock
 
     public decimal Purchase { get; set; }
 
-
     public decimal LastDiv { get; set; }
 
     public String Industry { get; set; } = String.Empty;
