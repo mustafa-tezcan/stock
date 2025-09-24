@@ -120,37 +120,11 @@ http://localhost:5000/swagger
 
 <h2>🗺 Yol Haritası</h2>
 <ul>
-  <li>[ ] SignalR ile gerçek zamanlı bildirimler</li>
   <li>[ ] Birden fazla portföy desteği</li>
   <li>[ ] Üyelik seviyelerine göre yetkilendirme</li>
-  <li>[ ] Mobil uygulama entegrasyonu (React Native)</li>
 </ul>
 
 <hr>
 
-<h2>🤝 Katkıda Bulunma</h2>
-<ol>
-  <li>Fork yapın 🍴</li>
-  <li>Yeni bir branch oluşturun: <code>git checkout -b feature/yeni-ozellik</code></li>
-  <li>Değişikliklerinizi commit edin: <code>git commit -m 'Yeni özellik eklendi'</code></li>
-  <li>Branch'i push edin: <code>git push origin feature/yeni-ozellik</code></li>
-  <li>Pull request açın 🎉</li>
-</ol>
 
-<hr>
-
-<h2>📜 Lisans</h2>
-<p>
-  Bu proje <strong>MIT Lisansı</strong> ile lisanslanmıştır. Daha fazla bilgi için 
-  <code>LICENSE</code> dosyasına göz atın.
-</p>
-
-<hr>
-
-<h2>👤 Geliştirici</h2>
-<p>
-  <strong>Mustafa Tezcan</strong><br>
-  <a href="https://github.com/mustafa-tezcan">GitHub</a> • 
-  <a href="https://linkedin.com/in/mustafa-tezcan">LinkedIn</a>
-</p>
 
