@@ -70,8 +70,9 @@ StockTracker/
 <h3>1️⃣ Gerekli bağımlılıkları yükleyin</h3>
 <ul>
   <li><a href="https://dotnet.microsoft.com/download/dotnet/8.0">.NET 8 SDK</a></li>
-  <li><a href="https://www.postgresql.org/download/">PostgreSQL</a></li>
+  <li><a href="https://www.sqlite.org/download.html">SQLite</a></li>
 </ul>
+
 
 <h3>2️⃣ Repository'yi klonlayın</h3>
 <pre>
@@ -96,27 +97,6 @@ dotnet ef database update
 <pre>
 dotnet run
 </pre>
-
-<hr>
-
-<h2>🌐 Swagger UI</h2>
-<p>
-API endpointlerini test etmek için <a href="https://swagger.io/">Swagger</a> arayüzüne erişebilirsiniz.<br>
-Uygulama çalıştığında tarayıcınızda şu adresi açın:
-</p>
-<pre>
-http://localhost:5000/swagger
-</pre>
-
-<hr>
-
-<h2>📸 Ekran Görüntüleri</h2>
-<p>
-  Swagger UI ve API yanıtlarını gösteren ekran görüntülerini buraya ekleyebilirsiniz.<br>
-  <em>Örn:</em> <img src="docs/images/swagger.png" alt="Swagger UI" width="600">
-</p>
-
-<hr>
 
 <h2>🗺 Yol Haritası</h2>
 <ul>
